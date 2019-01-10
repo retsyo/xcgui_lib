@@ -1,0 +1,25 @@
+License
+
+Copyright XCGUI Authors. All rights reserved.
+
+1. Introduction
+XCGUI is a GUI framework for Windows developed in C/C++ based on DirectUI thought. When you download and use XCGUI, you are required to accept this License. Any reverse engineering or modification are not permitted. 
+
+2. License for free version
+The 32 bits XCGUI dynamic library(XCGUI.DLL) is only free for personal user without any technology support. The free version does not apply to enterprise user. 
+
+3. Term of use for free version
+You must supply a copy of this License with your application; or give prominent notice in the About/Help section to indicate that you are using XCGUI(http://ww.xcgui.com) 
+
+4. Obtain the commercial service
+Only the 32 bits XCGUI dynamic library is free for personal user as stated in section 2. Enterprise user must pay for 32 bits XCGUI dynamic library. Further more, None of the static library, 64 bits XCGUI dynamic library, GUI Designer or technology support is free no matter for personal user or enterprise user. If you need more information, please visit http://www.xcgui.com or contact 154460336@qq.com. 
+
+5. Disclaimer of Warranty
+There is no warranty for XCGUI, to the extent permitted by applicable law. The copyright holders provide the product ¡°as is¡± without warranty of any kind. The copyright holders shall assume no responsibility, whatsoever, for any damages. 
+
+6. Copyright and Rights
+Copyright XCGUI Authors. All rights reserved. The copyright holders reserve the right, at their discretion, to change, modify, add, or remove portions of these License at any time by posting the amended License. Please check these License periodically for changes. 
+
+7. Contact us
+Official website: http://www.xcgui.com
+E-mail: 154460336@qq.com
